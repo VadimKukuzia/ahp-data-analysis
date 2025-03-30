@@ -1,5 +1,19 @@
 # AHP-Based Vulnerability Assessment of Gas Stations
 
+## Repository Overview
+/project-name  
+│── /src  
+│   │── config.yaml            
+│   │── data_loader.py           
+│   │── data_processing.py      
+│   │── ahp_analysis.py          
+│   │── main.py                  
+│── /datasets                    
+│── /results                   
+│── requirements.txt            
+│── README.md                   
+
+
 ## Project Overview
 This project focuses on developing methodologies and intelligent information technologies for assessing the vulnerability of gas stations to various types of accidents. The work is part of a Ukrainian-British collaborative project that aims to enhance safety, emergency response, and risk management for critical infrastructure, particularly gas stations.
 
