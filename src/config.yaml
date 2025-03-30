@@ -1,0 +1,6 @@
+data:
+  datasets_path: "data\\datasets"
+  results_path: "results"
+ahp:
+  default_N: 11
+  environmental_N: 12
