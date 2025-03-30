@@ -15,7 +15,8 @@ The following diagram illustrates the data flow within the `src` directory, high
 
 
 ```mermaid
-  A[CSV Dataset] -->|Load Data| B[data_loader.py];
+graph TD;
+    A[CSV Dataset] -->|Load Data| B[data_loader.py];
     B -->|Extract Rankings| C[data_processing.py];
     C -->|Build AHP Matrix| D[ahp_analysis.py];
     D -->|Calculate Priorities| E[Results: Table & Pickle];
