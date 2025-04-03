@@ -6,11 +6,11 @@
 │── /notebooks                 #py notebooks with result analysis and visualization  
 │── /results                   #example results  
 │── /src  
-│   │── config.yaml            #run config
-│   │── data_loader.py         #loading data  
-│   │── data_processing.py     #process data 
-│   │── ahp_analysis.py        #getting ahp analysis  
-│   │── main.py                #entry point 
+│   │── config.yaml            #run config  
+│   │── data_loader.py         #loading data    
+│   │── data_processing.py     #process data   
+│   │── ahp_analysis.py        #getting ahp analysis    
+│   │── main.py                #entry point   
 │── requirements.txt            
 │── README.md                   
 
