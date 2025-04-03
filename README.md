@@ -1,15 +1,16 @@
 # AHP-Based Vulnerability Assessment of Gas Stations
 
 ## Repository Overview
-/project-name  
+/ahp-data-analysis  
+│── /data/datasets             #example data inputs
+│── /notebooks                 #py notebooks with result analysis and visualization
+│── /results                   #example results
 │── /src  
-│   │── config.yaml            
-│   │── data_loader.py           
-│   │── data_processing.py      
-│   │── ahp_analysis.py          
-│   │── main.py                  
-│── /datasets                    
-│── /results                   
+│   │── config.yaml            #run config
+│   │── data_loader.py         #loading data  
+│   │── data_processing.py     #process data 
+│   │── ahp_analysis.py        #getting ahp analysis  
+│   │── main.py                #entry point 
 │── requirements.txt            
 │── README.md                   
 
