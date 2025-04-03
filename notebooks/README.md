@@ -25,5 +25,4 @@ The graphs below show the priority vectors translated into percentages for clari
 - **Fireball**  
 
 This aggregation helps in understanding overall trends across different emergency scenarios.  
-
-![Aggregated Scenario Analysis](https://github.com/user-attachments/assets/602ed03a-98b7-48f0-a0e4-12db581b5d2e)
+![Aggregated Scenario Analysis](https://github.com/user-attachments/assets/cc12d12b-f9c2-4297-a7f7-03177af440f1)
