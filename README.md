@@ -2,9 +2,9 @@
 
 ## Repository Overview
 /ahp-data-analysis  
-│── /data/datasets             #example data inputs
-│── /notebooks                 #py notebooks with result analysis and visualization
-│── /results                   #example results
+│── /data/datasets             #example data inputs  
+│── /notebooks                 #py notebooks with result analysis and visualization  
+│── /results                   #example results  
 │── /src  
 │   │── config.yaml            #run config
 │   │── data_loader.py         #loading data  
