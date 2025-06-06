@@ -5,7 +5,7 @@ The notebook files contain visualization results for the derived priority vector
 - Individually for each scenario and factor type  
 - Aggregated by factor type across all scenarios for convenience
 
-These visualizations facilitate both expert-driven manual analysis and algorithmic machine-assisted analysis.  
+These visualizations compare both expert-driven manual analysis and algorithmic machine-assisted analysis.  
 
 ## **Results**  
 
